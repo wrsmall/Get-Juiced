@@ -1,0 +1,29 @@
+.bg-image{
+    background: url('../Images/Driverless_Cars.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Impact;
+    color: black;
+   };
+   
+   #invis{
+      background: none;
+   };
+   
+   #trans-bg{
+      background: none;
+   };
+   
+   #title{
+      background: none;
+   };
+   
+   #map{
+      color: black;
+   };
+   .bg-gray{
+       background-color: lightgray;
+   };
+   
