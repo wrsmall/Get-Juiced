@@ -4,6 +4,7 @@
   <hr/>
   <h3>The Muse<h3/>
     As the world begins the transition into electric vehicles being more prevalent. My team and I set out to simplify the process of finding a charge port in an area unknown to the user. Get Juiced allows users to comfortably travel without worrying about the stress of finding a charge port when their vehicle needs to be charged.
+    <hr/>
   <h3>Technologies Used<h3/>
     <h3>Javascript<br/>Jquery<br/>API/AJAX<br/>HTML5<br/>Bootstrap<h3/>
   <hr/>
