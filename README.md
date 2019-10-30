@@ -8,5 +8,6 @@
   <h3>Technologies Used<h3/>
     <h3>Javascript<br/>Jquery<br/>API/AJAX<br/>HTML5<br/>Bootstrap<h3/>
   <hr/>
+      <h3>Deployed Project<h3/>
   https://wrsmall.github.io/Get-Juiced/.
   
